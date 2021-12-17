@@ -1,0 +1,31 @@
+body {
+    background-color: #C8E3D4;
+
+  }
+hr {
+    /* background-color: white; */
+    color: white;
+    border-style:dotted none none none;
+    border-width: 7px;
+    /* height:3px; */
+    width:10%;
+    size: 10px;
+}
+
+h1 {
+    color: #22577E;
+}
+
+h3 {
+    color: #22577E;
+}
+
+/* class selectors */
+.header{
+    background-color: #89B5AF;
+}
+
+/* id selectors */
+/* use ID when there is only 1 of the type on a page */
+/* an item can have more than 1 class but only 1 id */
+/* ids and classes overwrite the tag selectors */
